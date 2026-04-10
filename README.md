@@ -91,7 +91,7 @@ print(model.score(X_test, y_test))
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/language-detection-ml.git
+git clone https://github.com/aryankha098-code/Language-Detection-System-using-Machine-Learning-Naive-Bayes-
 ```
 
 2. Navigate to the project folder:
